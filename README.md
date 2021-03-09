@@ -6,17 +6,29 @@ An extension of its features goes to a calculation.py file, where different feat
 # Table of Contents
 
 [Requirements](https://github.com/ichirod-japan/waganolib#requirements)
+
 [Installation](https://github.com/ichirod-japan/waganolib#installation)
+
 [Help](https://github.com/ichirod-japan/waganolib#help)
+
 [Build Source Code](https://github.com/ichirod-japan/waganolib#build-source-code)
+
 [License](https://github.com/ichirod-japan/waganolib#license)
+
 [Features](https://github.com/ichirod-japan/waganolib#features)
+
 [Haversine](https://github.com/ichirod-japan/waganolib#Haversine)
+
 [Mean](https://github.com/ichirod-japan/waganolib#mean)
+
 [Median](https://github.com/ichirod-japan/waganolib#median)
+
 [Stdev](https://github.com/ichirod-japan/waganolib#stdev)
+
 [_sum](https://github.com/ichirod-japan/waganolib#_sum)
+
 [Summary](https://github.com/ichirod-japan/waganolib#summary)
+
 
 # Requirements
 
