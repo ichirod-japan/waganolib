@@ -190,4 +190,4 @@ the _sum returns a high-precision sum of the given numeric data as a fraction,
 # Summary
 
 I don't think you expected this, but I won't list all features over here, you can find most of the features of calculation.py at https://github.com/python/cpython/blob/master/Lib/statistics.py, where most features reside.
-There is only a calculation.py file for now, since the module is still on 0.5.3, but the japanese-related features will be added very soon, and it is frantically being worked on!
+There is only a calculation.py file for now, since the module is still on 0.5.4, but the japanese-related features will be added very soon, and it is frantically being worked on!
