@@ -1,4 +1,74 @@
-A Multi-purpose package designed for **japanese**-related functions
+Wagano is a Multi-purpose package designed for **japanese**-related functions.
+An extension of its features goes to a calculation.py file, where different features associated with math overlay.
+
+![Logo](https://github.com/ichirod-japan/waganolib/blob/main/images/wagano.jfif?raw=true)
+
+# Table of Contents
+
+[Requirements](https://github.com/ichirod-japan/waganolib#requirements)
+[Installation](https://github.com/ichirod-japan/waganolib#installation)
+[Help](https://github.com/ichirod-japan/waganolib#help)
+[Build Source Code](https://github.com/ichirod-japan/waganolib#build-source-code)
+[License](https://github.com/ichirod-japan/waganolib#license)
+[Features](https://github.com/ichirod-japan/waganolib#features)
+[Haversine](https://github.com/ichirod-japan/waganolib#Haversine)
+[Mean](https://github.com/ichirod-japan/waganolib#mean)
+[Median](https://github.com/ichirod-japan/waganolib#median)
+[Stdev](https://github.com/ichirod-japan/waganolib#stdev)
+[_sum](https://github.com/ichirod-japan/waganolib#_sum)
+[Summary](https://github.com/ichirod-japan/waganolib#summary)
+
+# Requirements
+
+There is one thing you must have installed (the basics) before installing this module:
+
+- Python 3.6.8
+
+It may work on other versions, however, it has not been tested whether it'll work on them or not.
+
+# Installation
+
+One of the recommended ways to install wagano is by PyPi's pip.
+```
+pip install wagano
+```
+____________
+Another way to get wagano is to git clone.
+
+```
+git clone https://github.com/ichirod-japan/waganolib.git
+```
+Then you can run the setup file from there.
+```
+python setup.py install
+```
+(or if you're on a Unix-Like OS (such as MacOS or Linux), use `sudo python setup.py install`)
+
+# Help
+
+If you need help or have an issue, do not hesitate to open one at https://github.com/ichirod-japan/waganolib/issues
+Very soon, this module is going to have a documentation to answer some of the basic questions.
+Remember before submitting an issue, check other issues (closed as well) and see if your question has already been answered.
+
+# build-source-code
+
+If you want to use features that are currently in development, or you want to contribute to wagano, you will need to build wagano locally from its source code, rather than pip installing it.
+
+Installing from source is fairly automated. The most work will involve compiling and installing all the wagano dependencies (not much, really). Once that is done, run the setup.py script which will attempt to auto-configure, build, and install wagano.
+
+# License
+
+This library is distributed under the [MIT License](https://github.com/ichirod-japan/waganolib/blob/main/LICENSE) which can be found in the `waganolib/LICENSE` file.
+
+# Features
+
+The following is a content table for all the **features** and only features of this README.md file.
+[Haversine](https://github.com/ichirod-japan/waganolib#Haversine)
+[Mean](https://github.com/ichirod-japan/waganolib#mean)
+[Median](https://github.com/ichirod-japan/waganolib#median)
+[Stdev](https://github.com/ichirod-japan/waganolib#stdev)
+[_sum](https://github.com/ichirod-japan/waganolib#_sum)
+[Summary](https://github.com/ichirod-japan/waganolib#summary)
 
 # Haversine
 
