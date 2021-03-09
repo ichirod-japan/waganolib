@@ -48,17 +48,6 @@ interval 1.5-2.5, three data points in the class interval 2.5-3.5, and one in
 the class interval 3.5-4.5. The median of these data points is 2.8333...
 Calculating variability or spread
 
-# Table of 4 Following features
-
-==================  =============================================
-Function            Description
-==================  =============================================
-pvariance           Population variance of data.
-variance            Sample variance of data.
-pstdev              Population standard deviation of data.
-stdev               Sample standard deviation of data.
-==================  =============================================
-
 # stdev
 
 stdev is a feature that calculates the standard deviation of sample data:
