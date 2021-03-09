@@ -75,12 +75,19 @@ This library is distributed under the [MIT License](https://github.com/ichirod-j
 # Features
 
 The following is a content table for all the **features** and only features of this README.md file.
+
 [Haversine](https://github.com/ichirod-japan/waganolib#Haversine)
+
 [Mean](https://github.com/ichirod-japan/waganolib#mean)
+
 [Median](https://github.com/ichirod-japan/waganolib#median)
+
 [Stdev](https://github.com/ichirod-japan/waganolib#stdev)
+
 [_sum](https://github.com/ichirod-japan/waganolib#_sum)
+
 [Summary](https://github.com/ichirod-japan/waganolib#summary)
+
 
 # Haversine
 
