@@ -180,7 +180,6 @@ def _coerce(T, S):
     Coercion rules are currently an implementation detail. See the CoerceTest
     test class in test_statistics for details.
     """
-    # See http://bugs.python.org/issue24068.
     assert T is not bool, "initial type T is bool"
     # If the types are the same, no need to coerce anything. Put this
     # first, so that the usual case (no coercion needed) happens as soon
